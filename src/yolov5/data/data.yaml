@@ -1,0 +1,5 @@
+train: /home/jubinpark/다운로드/dataset/train.txt
+val: /home/jubinpark/다운로드/dataset/val.txt
+
+nc: 3
+names: ['grandeur', 'sonata', 'avante']
