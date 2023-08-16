@@ -50,7 +50,6 @@
         <param name="publish_image" value="$(arg publish_image)"/>
         <param name="output_image_topic" value="$(arg output_image_topic)"/>
     </node>
-    <include file="$(find usb_cam)/launch/xycar_cam.launch"/>
 
 
 </launch>
